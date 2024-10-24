@@ -12,6 +12,8 @@ website:
         text: qui suis-je ?
       - href: bibliographie.qmd
         text: Biblio
+      - href: cv.qmd
+        text: CV
 
 format:
   html:

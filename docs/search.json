@@ -7,13 +7,6 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "bibliographie.html",
-    "href": "bibliographie.html",
-    "title": "Bibliographie",
-    "section": "",
-    "text": "Chapter 1\nVoici ma biliographie."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -33,5 +26,19 @@
     "title": "About",
     "section": "",
     "text": "TP 2A."
+  },
+  {
+    "objectID": "bibliographie.html",
+    "href": "bibliographie.html",
+    "title": "Bibliographie",
+    "section": "",
+    "text": "Chapter 1\nVoici ma biliographie."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Et ça c’est pas un commentaire.\n\n\n\n\n\n\n\n  \n     Download current CV"
   }
 ]

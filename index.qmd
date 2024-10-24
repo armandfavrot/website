@@ -1,5 +1,15 @@
 ---
 title: "website"
+image: media/tiger.png
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - icon: linkedin
+      href: https://www.linkedin.com/in/afavrot/
+      target: _blank
 ---
 
 This is a Quarto website.
