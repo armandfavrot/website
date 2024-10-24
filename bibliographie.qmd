@@ -7,4 +7,4 @@ author: "Armand Favrot"
 
 Voici ma biliographie.
 
-<!-- un commentaire -->
+<!-- un commentaire 1 -->
