@@ -6,3 +6,5 @@ author: "Armand Favrot"
 # Chapter 1
 
 Voici ma biliographie.
+
+<!-- un commentaire -->
